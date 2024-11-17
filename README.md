@@ -1,3 +1,6 @@
 # apna-college
 this is my first repository
-author name abhi bhhai
+author name abhi bhhai jain 
+abhi abhi
+
+
